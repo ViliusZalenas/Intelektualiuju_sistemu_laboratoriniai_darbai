@@ -51,3 +51,7 @@ hold on;
 plot(x2, y_aproksimuota, 'r--o');
 legend('Pradine funkcija', 'Aproskimuota funkcija');
 grid on;
+hold on;
+plot(x2, y_aproksimuota, 'r--o');
+legend('Pradine funkcija', 'Aproskimuota funkcija');
+grid on;
